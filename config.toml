@@ -1,0 +1,75 @@
+[[cards.values]]
+value = "A"
+score = 1
+
+[[cards.values]]
+value = "2"
+score = 2
+
+[[cards.values]]
+value = "3"
+score = 3
+
+[[cards.values]]
+value = "4"
+score = 4
+
+[[cards.values]]
+value = "5"
+score = 5
+
+[[cards.values]]
+value = "6"
+score = 6
+
+[[cards.values]]
+value = "7"
+score = 7
+
+[[cards.values]]
+value = "8"
+score = 8
+
+[[cards.values]]
+value = "9"
+score = 9
+
+[[cards.values]]
+value = "10"
+score = 10
+
+[[cards.values]]
+value = "J"
+score = 11
+
+[[cards.values]]
+value = "Q"
+score = 12
+
+[[cards.values]]
+value = "K"
+score = 13
+
+[[cards.suits]]
+name = "spades"
+symbol = "♠"
+abbrev = "s"
+
+[[cards.suits]]
+name = "hearts"
+symbol = "♥"
+abbrev = "h"
+
+[[cards.suits]]
+name = "diamonds"
+symbol = "♦"
+abbrev = "d"
+
+[[cards.suits]]
+name = "clubs"
+symbol = "♣"
+abbrev = "c"
+
+[[commands]]
+name = "highlow"
+description = "Start the game of Higher or Lower"
